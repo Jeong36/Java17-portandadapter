@@ -1,0 +1,19 @@
+### Send POST request with json body
+POST http://localhost:8080/member
+Content-Type: application/json
+
+{
+  "name": "fefewfwefew",
+  "address": "fefewfwefewfefewfwefew",
+  "age": 11
+}
+
+### Send POST request with json body
+POST http://localhost:8080/member
+Content-Type: application/json
+
+{
+  "name": "",
+  "address": "",
+  "age": 11
+}
